@@ -1,0 +1,6 @@
+name,category,sound,count,planned
+cat,animal,meow,12,10
+dog,animal,woof,3,5
+apple,fruit,null,2,10
+banana,fruit,null,20,10
+bicycle,vehicle,squeak,1,2
